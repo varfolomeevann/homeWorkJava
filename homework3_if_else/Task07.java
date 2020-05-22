@@ -1,4 +1,4 @@
-package homework3_if_else;
+package homeWorkJava.homework3_if_else;
 import java.util.Scanner;
 import java.util.regex.Pattern;
 import java.util.regex.Matcher;

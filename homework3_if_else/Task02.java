@@ -1,4 +1,4 @@
-package homework3_if_else;
+package homeWorkJava.homework3_if_else;
 import java.util.Scanner;
 /*
  * С клавиатуры вводится время (количество часов от 0 до
